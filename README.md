@@ -1,1 +1,3 @@
 # GAvizTool
+
+![poster](poster.png)
